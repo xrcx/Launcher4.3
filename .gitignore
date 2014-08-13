@@ -1,36 +1,72 @@
-# Windows image file caches
+# !/[Ll]ib
+~*.*
+*.umr~
+*.Cache
+.metadata/
+.settings/
+properties.index
+*.prefs
+.cvs/
+*.dbmdl
+*.docstates
+*.docstates
+*.sln.docstates
+.svn/
+.git/
+*.bak
+*.cache
+*.dbmdl
+*.ipch
+*.log
+*.moles
+*.ncb
+*.o
+*.obj
+*.opensdf
+*.orig
+*.Publish.xml
+*.resharper
+*.resharper.user
+*.schemaview
+*.sdf
+*.sln.cache
+*.suo
+*.swp
+*.tmp
+*.user
+*.vscc
+*.vspcc
+*.vspscc
+*.vssscc
+*.xap
+*ReSharper*
+/TestResults
+[Bb]in/
+proguard/
+[Ll]og
+[Oo]bj/
+_compareTemp
+_notes
+_ReSharper.*
+_ReSharper.*/
+_UpgradeReport_Files/
+~$*
+~$*.*
+aspnet_client
+[Dd]ebug/
+deploy
+deploy/*
+httpd.parse.errors
+Release
+TestResults
 Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must ends with two \r.
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+Tmp/
+Uploads/
+UpgradeLog.XML
+vssver.scc
+#gen/
+*~
+.~*
+*#
+//tst
+classes/
